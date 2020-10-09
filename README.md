@@ -95,4 +95,9 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish1323&show_icons=true&theme=light&line_height=27" alt="Ashish's github stats"/>
 </a>
 
-Made with ❤, by Ashish Agnihotri
+<div align="center">
+
+### Made with ❤️, by Ashish Agnihotri
+
+</div>
+ 
