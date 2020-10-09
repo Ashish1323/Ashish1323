@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola, I'm [Ashish Agnihotri!](https://ashishagnihotri.me/) 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish1323&label=Views&color=blue&style=plastic%22%20alt=%22Ashish1323" /> </p>
 
 <!--
 **Ashish1323/Ashish1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,5 +88,11 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 ```
 <br />
 <br />
+<a href="https://github.com/Ashish1323">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1323&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Ashish1323">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish1323&show_icons=true&theme=light&line_height=27" alt="Ashish's github stats"/>
+</a>
 
 Made with ❤, by Ashish Agnihotri
