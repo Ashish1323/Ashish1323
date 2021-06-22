@@ -19,17 +19,17 @@ I am basically into percipient software development, I am a full-stack web devel
   <img align="right" src="https://magiccopy.xyz/assets/images/hadder.gif" width="300" height="300"/>
 </p>
 
-I am Ashish Agnihotri, 3rd Year B.Tech Student basically into percipient software development, I am a full-stack web developer with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
+I am Ashish Agnihotri, Final Year B.Tech Student basically into percipient software development, I am a full-stack web developer with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
 💻    &nbsp; Full Stack Developer.
 
-✍🏻   &nbsp;  Decent competitive programming, DSA, Algo skills.
+✍🏻   &nbsp;  competitive programming, DSA, Algo skills.
 
-🌱 I’m currently learning correct strategies to remove software chaos.
+🌱 I’m currently practising Leetcode for DS And ALGOs.
      
 👯 I’m looking to collaborate on open source projects using JavaScript.    
        
-🥅 2020 Goals: Contribute more to Open Source projects, improve full stack skills.
+🥅 2021 Goals: Get A JOB 💪, improve skills.
 
 🍎  Beginner mindset (open to learning) 
 
