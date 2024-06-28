@@ -19,21 +19,17 @@ I am basically into percipient software development, I am a full-stack web devel
   <img align="right" src="https://magiccopy.xyz/assets/images/hadder.gif" width="300" height="300"/>
 </p>
 
-I am Ashish Agnihotri, Fresh Grad Professional into percipient software development, I am a full-stack web developer with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
+I am Ashish.
 
-💻    &nbsp; Full Stack Developer.
+💻    &nbsp; Consultant @Deloitte, Full Stack Dev by Heart x.
 
-✍🏻   &nbsp;  competitive programming, DSA, Algo skills.
+✍🏻   &nbsp;  Been writing C#, Javascript and python these days
 
-🌱 I’m currently practising Leetcode for DS And ALGOs.
+🌱 I’m currently getting hands on Data Engineering project, kafka, spark, adf yada  yada lol.
      
 👯 I’m looking to collaborate on open source projects using JavaScript.    
        
-🥅 2023 Goals: Open Source, CP, and Pet Projects.
-
 🍎  Beginner mindset (open to learning) 
-
-😄 Pronouns: Coder, Leader and Kind Hearted
 
 ### Languages:                                                         
 
